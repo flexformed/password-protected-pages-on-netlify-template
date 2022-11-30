@@ -1,7 +1,7 @@
 [build]
   publish = "public"
-  
-  [[redirects]]
+
+[[redirects]]
   from = "/pro/*"
   status = 200
   force = true
